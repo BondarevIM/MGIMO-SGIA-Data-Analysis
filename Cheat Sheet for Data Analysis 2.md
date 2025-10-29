@@ -1,6 +1,6 @@
 <div style="text-align: center; font-family: 'Times New Roman', Times, serif; font-size: 16pt; font-weight: bold">
   
-## Cheat Sheet for Data Analysis #2<br>Descriptive Statistics 
+# Cheat Sheet for Data Analysis #2<br>Descriptive Statistics 
 </div>
 
 <div style="font-family: 'Times New Roman', Times, serif; font-size: 12pt; text-align: left">
@@ -166,4 +166,5 @@ print(pd.crosstab(df['colour'], df['certification']))
 2. **Compare mean and median** - if mean > median, distribution is likely right-skewed
 3. **Use median and IQR** for skewed distributions instead of mean and standard deviation
 4. **Visualize your data** with histograms and box plots to complement numerical statistics
+
 5. **Remember**: correlation does not imply causation - it only measures linear relationships
