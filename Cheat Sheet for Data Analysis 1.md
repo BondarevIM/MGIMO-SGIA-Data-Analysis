@@ -1,6 +1,6 @@
 <div style="text-align: center; font-family: 'Times New Roman', Times, serif; font-size: 16pt; font-weight: bold">
   
-## Cheat Sheet for Data Analysis #1<br>Pandas 
+# Cheat Sheet for Data Analysis #1<br>Pandas 
 </div>
 
 <div style="font-family: 'Times New Roman', Times, serif; font-size: 12pt; text-align: left">
@@ -65,4 +65,5 @@ domain_counts = df1['example_column'].value_counts(dropna=True)
 ```python
 print(df1.isnull().sum())
 ```
+
 *Meaning:* You can use `df1.isnull().sum()` to see how many missing values per column
