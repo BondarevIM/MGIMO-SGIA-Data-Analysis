@@ -2,3 +2,6 @@
 
 ### Sample test link
 https://docs.google.com/forms/d/e/1FAIpQLSeXt05SAdYoXxOFmyHgXVk_GNdosHq7jXygEuRT1VQiy1ZHqw/viewform?usp=header
+
+### Exam
+https://forms.gle/RCSd4JzGpVFHmD1Q6
